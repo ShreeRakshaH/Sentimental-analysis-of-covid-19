@@ -1,1 +1,0 @@
-# Sentimental-analysis-of-covid-19
